@@ -75,7 +75,12 @@ There are two possible ways to submit this project to Canvas. Lambda Staff will 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+    Document Object Model, provides elements in a tree structure with parent elements nesting children elements
 2. What is an event?
+    A future action waiting to execute based on code
 3. What is an event listener?
+    A method used on an element, taking an arguement and a callback, is processed the event
 4. Why would we convert a NodeList into an Array?
+    We are not able to use methods on NodeList so they must be coverted first
 5. What is a component?
+    A stand alone reusable function
